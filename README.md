@@ -1,2 +1,2 @@
 # Reinforcement-Learning-Practical-Implementations
-Personal Notes made from implementing Reinforcement learning Algorithms
+My Personal notes made while implementing different Reinforcement Learning Algorithms
